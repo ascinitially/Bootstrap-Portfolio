@@ -1,0 +1,23 @@
+Word-Guess-Game:  https://ascinitially.github.io/Word-Guess-Game/
+    https://github.com/ascinitially/Word-Guess-Game
+
+Gather the Mushrooms:  https://ascinitially.github.io/unit-4-game/
+    https://github.com/ascinitially/unit-4-game
+
+Trivia Game:  https://ascinitially.github.io/TriviaGame/
+    https://github.com/ascinitially/TriviaGame
+
+GIFtastic:  https://ascinitially.github.io/GIFtastic/
+    https://github.com/ascinitially/GIFtastic
+
+Feeling Hungry: https://tayler176.github.io/FeelingHungry/
+    https://github.com/tayler176/FeelingHungry
+
+LIRI Assistant: https://github.com/ascinitially/liri-node-app/tree/master
+    LIRI Preview:  https://drive.google.com/file/d/1nRK2pkQbdauvTweQF1NfksEC_yZDoTfE/view
+
+Bamazon: https://github.com/ascinitially/bamazon
+Bamazon Customer Preview:  https://drive.google.com/file/d/1lRQv1B1HUlm6jzPR6D5VrlHezujI3YMr/view
+Bamazon Manager Preview:  https://drive.google.com/file/d/1-16RK1f9ZFv8RuAC1tmsCtNm0Fc_lq7n/view
+
+Eat-Da-Burger:   https://github.com/ascinitially/burger1
