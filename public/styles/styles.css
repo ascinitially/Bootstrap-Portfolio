@@ -4,14 +4,16 @@
   /* background: url(../images/white-waves.png.jpg); */
 }
 
-
+.cent {
+  text-align:center;
+}
 /* .PBG {
   background: url(../images/white-waves.png.jpg);
 } */
 
 #img1, #img2, #img3, #img4, #img5, #img6 {
   height: 200px;
-
+  margin:auto;
   border-radius: 5px;
   cursor: pointer;
   transition: 0.3s;
@@ -98,7 +100,7 @@ body {
 .pImage {
   height:300px;
   /* width:300px; */
-
+  text-align:center;
 }
 
 .pCap {
@@ -120,24 +122,36 @@ img {
 
 .quickShot {
   padding:20px;
-  padding-top:50px;
+  padding-top: 60px;
 }
 .dataBox {
   text-align: center;
   padding: 10px;
 }
 .ween {
-  background-color: rgb(223, 248, 223);
+  /* background-color: rgb(223, 248, 223); */
+  background-color: rgb(119, 224, 119);
+
+  /* rgb(223, 248, 223) */
 }
 
 .spacer {
   height: 40px;
 }
 
-.centring {
-  text-align:center;
-}
 
 .text {
   margin-right: 15%;
+}
+
+.list-group-item.active {
+  color: black;
+}
+
+#portfolioHeader {
+  text-align: center;
+}
+
+.FF {
+  margin-left: 20px;
 }
