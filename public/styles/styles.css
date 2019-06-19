@@ -155,3 +155,7 @@ img {
 .FF {
   margin-left: 20px;
 }
+
+.active {
+  border-width: 3px !important;
+}
