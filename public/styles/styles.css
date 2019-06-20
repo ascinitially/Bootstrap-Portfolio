@@ -159,3 +159,13 @@ img {
 .active {
   border-width: 3px !important;
 }
+
+/* #mapleImage {
+  height: 200px;
+  margin:auto;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+  border: 2px solid black;
+  display: fill;
+} */
